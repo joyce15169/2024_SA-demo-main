@@ -5,7 +5,6 @@
 
 獎狀請見award資料夾
 
-
 桌面/
 ├── car                  # app.py是後端,Dump20250108.sql是MySQL資料庫
 ├── Taipei-City-Dashboard-main        # 臺北城市儀表板，用docker開啟
